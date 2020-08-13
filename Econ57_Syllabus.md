@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # Syllabus
 Econ 57a, Environmental Economics, Fall 2020  
@@ -31,7 +31,7 @@ That said, you are encouraged to attend synchronous sessions if you are *able* t
 
 1. The learning process of this class will be based on a series of discussions and conversations between us, and between you and your peers. Attending synchronous sessions is the easiest way to have such discussions.
 2. The same amount of time, effort, and critical thinking are expected for synchronous and asynchronous learning. You still need to invest heavily in this class in order to earn a successful grade with asynchronous learning.
-3. A higher bar will be expected for lecture reflection questions (see the assignment section for details) if it is completed outside of the synchronous session.
+3. A higher bar will be expected for lecture reflection questions (see the assignment section for details) if they are completed outside of the synchronous session.
 
 #### Virtual Check-ins
 If you cannot join synchronous class sessions regularly, you will be asked to attend periodic check-ins with me or the TA, at a time that is convenient to all of us. The exact time of the check-ins will be determined at the second week of the semester.
@@ -39,26 +39,26 @@ If you cannot join synchronous class sessions regularly, you will be asked to at
 ## Overview
 How much is an endangered species worth? Are we going to run out of fuel in the next 50 years? How damaging is climate change, and how should we deal with it? Why are so many fisheries over-exploited, forests cut down, aquifers depleted, and are there ways to prevent that? 
 
-Human society is intrinsically connected with nature. This course aims to provide an introduction to the economics regarding natural resources and the environment. In first part of the course, we will talk about how economists think about environmental and resource problems from methodological and analytical perspectives. Topics include market failures and policy instruments to correct them, property rights, and ways to evaluate benefits and costs of protecting the environment. In the second part of the course, we will dive into specific real-world environmental problems and analyze them using economics methods and tools. Topics will include non-renewable resources, air, water, climate, and others. 
+Human society is intrinsically connected with nature. This course aims to provide an introduction to the economics regarding natural resources and the environment. In first part of the course, we will talk about how economists think about environmental and resource problems from methodological and analytical perspectives. Topics include market failures and policy instruments to correct them, property rights, and ways to evaluate benefits and costs of protecting the environment. In the second part of the course, we will dive into specific real-world environmental problems and analyze them using economic methods and tools. Topics will include non-renewable resources, air, water, climate, and others. 
 
 ## Learning goals
 There are four learning goals that I hope you will be able to grasp by the end of this course. 
 
-1. Know the facts (not the alternative facts or the rhetorics)
+1. Know the facts (not the alternative facts or the rhetoric)
 	* How damaging will climate change be on our society? 
-	* How much jobs will be lost by phasing out fossil fuel in the next 10 years?
+	* How many jobs will be lost by phasing out fossil fuel in the next 10 years?
 2. Know the concepts of which economists think of environmental problem
 	* What is the Coase theorem?
 	* What is scarcity rent?
 3. Develop skills to think logically, critically, and coherently
-	* Graphically show how to correct externality using the tax instrument
+	* Graphically show how to correct externalities using the instrument of taxation
 	* Apply the equi-marginal principle to the case of freshwater allocation
 4. Develop an economic mindset that can be applied to analyze real-world environmental problems
 	* What are the trade-offs associated with protecting wildlife in Madagascar?
 	* What is the best way to do so?
 
 ## Prerequisites
-Students are expected to have knowledge of microeconomics at the level of Econ 2a (A Survey of Economics) or Econ 10a (Intro to Microeconomics). I will assume that you have basic knowledge regarding supply and demand, consumer and producer surplus, opportunity cost, etc. Please come to see me if you are not sure you meet the prerequisite of the course. 
+Students are expected to have knowledge of microeconomics at the level of Econ 2a (A Survey of Economics) or Econ 10a (Intro to Microeconomics). I will assume that you have basic knowledge regarding supply and demand, consumer and producer surplus, opportunity cost, etc. Please come to see me if you are not sure you meet the prerequisites of the course. 
 
 ## Textbook
 
@@ -78,7 +78,7 @@ Additional readings will be posted on LATTE.
 A collection of readings will be assigned for each module. Please read them and reflect on the following question, unless otherwise specified:   
 `What did you find most challenging, confusing, or noteworthy about the reading?`
 	- You get 1 point for each TQ you submit, as long as it is a good-faith effort. 
-	- TQ is due by 10 pm on the day before we start a new module. 
+	- Each TQ is due by 10 pm on the day before we start a new module. 
 	- I will drop the lowest two TQ scores.
 2. Class Reflections (10%)    
 During some class sessions, you will be asked a reflection question. You could either answer it synchronously during the session, or asynchronously after watching the session recording.
@@ -87,7 +87,7 @@ During some class sessions, you will be asked a reflection question. You could e
 	- I will drop the lowest two CR scores.
 3. Problem Sets (15%)	
 	- There will be ~6 assignments throughout the semester. 
-	- Problems will be posted on Wednesday, and is due on the next Wednesday before class (4 pm). I accept late assignments, though it reduces your grade by 10% each day. 
+	- Problems will be posted on Wednesday, and are due on the next Wednesday before class (4 pm). I accept late assignments, though it reduces your grade by 10% each day. 
 	- All the assignments are individual unless otherwise stated. 
 4. Group Project (20%)   
 	* See instructions below
@@ -101,18 +101,18 @@ During some class sessions, you will be asked a reflection question. You could e
 
 
 ## Instructions on the Group Project   
-You are expected to work on the project in a group of 4 students. I will provide a list of problems / issues you can work on, but feel free to propose your own topic as long as it is related to an environmental or resource issue. The final products will be a ~10 minutes class presentation and a paper around 8 pages, not including references but everything else. 
+You are expected to work on the project in a group of 4 students. I will provide a list of problems / issues you can work on, but feel free to propose your own topic as long as it is related to an environmental or resource issue. The final product will be a ~10 minute class presentation and a paper around 8 pages, inclusive of everything except references. 
 
 Think of your paper as an attempt to address an environmental or natural resource issue as a economist: describe the issue; analyze the issue using an analytical or quantitative framework; and offer your conclusion or suggestion. It is not expected that your paper be the last word on the topic or be entirely comprehensive. The point of the paper is for you to learn in greater detail about a particular topic, to think through the trade-offs associated with the problem, to make an argument, and to defend that argument using economic logic.
 
 The paper is expected to be academic, i.e. not a collection of opinions from blogs and websites. You are expected to use information from credible sources, for example refereed journal articles, research reports, and governmental agencies such as the EPA, DOE, and CBO, etc. Make sure you include those references at the end of your paper. 
 
-The grade for the group project will be based on both the presentation and the paper itself, applying to all group members. Detailed grading rubrics will be posted later in the semester. 
+The grade for the group project will be based on both the presentation and the paper itself, and will apply to all group members. Detailed grading rubrics will be posted later in the semester. 
 
 ## Class Policies
 
 #### Attendance
-While participation in synchronous sessions is encouraged, there are no attendance requirement for this class. 
+While participation in synchronous sessions is encouraged, there are no attendance requirements for this class. 
 
 #### Equipments
 We will be using interactive Zoom for lectures, office hours, and check-ins. All other class-related materials will be posted on LATTE. You will need the following equipment to succeed in this course:
@@ -219,7 +219,7 @@ In order to provide test accommodations, I need the letter more than 48 hours in
 	* Measuring benefits and costs
 	* Policy instruments: tax, cap, and the clean power plan
 	* Global agreements
-12. Environment and Economic Development
+12. The Environment and Economic Development
 	* Development and the environment
 	* The Kuznets Hypothesis
 	* Environmental governance and politics in the developing world
