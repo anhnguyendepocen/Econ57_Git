@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Syllabus
 Econ 57a, Environmental Economics, Fall 2020  
 Lecture: Monday / Wednesday 4:00-5:30 pm Eastern Standard Time (GM4 -4), on Zoom: https://brandeis.zoom.us/j/3579158444   
