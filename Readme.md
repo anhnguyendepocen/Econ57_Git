@@ -14,7 +14,7 @@ Instructor: Prof. Xinde "James" Ji
 Email: xji@brandeis.edu    
 Virtual Office Hours: Monday / Wednesday 10:00 - 11:30 pm, or by appointment    
 Location: https://brandeis.zoom.us/j/3579158444    
-Wechat: ![](figures/wechat_qr.jpg){height=150px} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whatsapp: ![](figures/whatsapp_qr.jpg){height=150px}  
+Wechat: ![](figures/wechat_qr.jpg | width=150px) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whatsapp: ![](figures/whatsapp_qr.jpg){height=150px}  
 *Disclaimer: Email is the preferred communication mechanism, and I promise to respond to your email within 24 hours (48 hours on weekends). Using alternative communication media (instant messaging) does not guarantee a faster response.*     
 
 Teaching Assistant: Jacob Margolis       
